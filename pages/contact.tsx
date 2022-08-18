@@ -53,6 +53,34 @@ function Contact(): React.ReactElement {
             </span>
           </p>
         </div>
+
+        {/* contact form start */}
+        <div className='container py-12'>
+          <form action=''>
+            <input
+              name='name'
+              type='text'
+              className='mb-4 box-border w-full rounded bg-transparent p-3 text-lg font-medium leading-5 text-white outline-none'
+              placeholder='Name'
+            />
+            <input
+              name='name'
+              type='text'
+              className='mb-4 box-border w-full rounded bg-transparent p-3 text-lg font-medium leading-5 text-white outline-none'
+              placeholder='Email'
+            />
+            <textarea
+              className='mb-4 box-border w-full rounded bg-transparent p-3 text-lg font-medium leading-5 text-white outline-none'
+              name=''
+              id=''
+              cols={30}
+              rows={10}
+              placeholder='message'
+            ></textarea>
+          </form>
+        </div>
+
+        {/* contact form end */}
       </div>
     </>
   );

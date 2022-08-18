@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Karan Pratap Singh',
-  author: 'Karan Pratap Singh',
-  headerTitle: 'Karan Pratap Singh',
+  title: 'Paul Obayuwana',
+  author: 'Paul Obayuwana',
+  headerTitle: 'Paul Obayuwana',
   description:
     'A software engineer who values learning and growing with people, teams, and technologies.',
   language: 'en-us',
@@ -12,8 +12,8 @@ const siteMetadata = {
   image: '/static/avatar.jpg',
   socialBanner: '/static/banner.png',
   email: 'contact@karanpratapsingh.com',
-  github: 'https://github.com/karanpratapsingh',
-  twitter: 'https://twitter.com/karan_6864',
+  github: 'https://github.com/pauxiel',
+  twitter: 'https://twitter.com/obayuwanapaul',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
