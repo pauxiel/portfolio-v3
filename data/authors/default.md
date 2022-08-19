@@ -24,36 +24,33 @@ Part of my achievement includes an earning of udacity Nanodegree certificate as 
 
 ---
 
+## About Me
+
+A solution-oriented and problem solver with 2 years of experience building web applications.
+skilled in communication, collaboration, and technical documentation
+
 ## Work Experience
 
 <details>
-  <summary>Software Developer. <a href='growthconstant.co' target='_blank'>Growth Constant</a>, (Mar. 2021 - Currently)</summary>
+  <summary>Frontend Developer Intern. <a href='facturasamurai.com' target='_blank'>HNG internship</a>, (Aug. - Dec. 2020)</summary>
   <div style={{marginLeft: '1em'}}>
-    <li> Full stack developer (Ruby on Rails) and copywriter for the first project of the start-up: <a href='virtualdash.co' target='_blank'>Virtual Dash </a>.</li>
+    <li> Optimized my Team Project website by compressing the website image files </li>
+    <li> Collaborate with other developers to convert a mockup to website built with Html and css </li>
   </div>
 </details>
 
 <details>
-  <summary>Backend Developer Intern. <a href='facturasamurai.com' target='_blank'>Factura Samurai</a>, (Aug. - Dec. 2020)</summary>
+  <summary>Web Developer. <a href='biobot.farm' target='_blank'>Dialawebsite</a>, (July. 2019 - Jun. 2020)</summary>
   <div style={{marginLeft: '1em'}}>
-    <li> Implemented the user authentication on the Elixir API. </li>
-    <li> Learn and developed serverless services (Cloudflare Workers) with TypeScript. </li>
-  </div>
-</details>
-
-<details>
-  <summary>Full Stack Web Developer. <a href='biobot.farm' target='_blank'>biobot.farm</a>, (Aug. 2019 - Jun. 2020)</summary>
-  <div style={{marginLeft: '1em'}}>
-    <li> Successfully launched a new service (web application) that was developed form scratch while learning React. </li>
-    <li> Documented the web application and taught a colleague to mantener said application. </li>
-    <li> Improved speed, functionality and readability of a Python API and micro-services. </li>
+    <li>Built and launched websites for clients </li>
+    <li>nstructed a class of 3 students through lectures on web Technologies. </li>
   </div>
 </details>
 
 ## Education
 
 <details>
-  <summary>Bachelor's Degree in Information Technologies and Telecomunications. <a href='ulsachihuahua.edu.mx/site' target='_blank'>Universidad La Salle Chihuahua</a>, (Aug. 2016 - Dic. 2020)</summary>
+  <summary>Bachelor's Degree in Electronic and Computer Engineering <a href='ulsachihuahua.edu.mx/site' target='_blank'>Lagos State University</a>, (March. 2014 - May. 2019)</summary>
   <div style={{marginLeft: '1em'}}>
     <li> Degree on engineering on information and telecommunication with specialization on mobile development. </li>
     <li> Academic exchange semester at La Salle Ramon Llull University (Barcelona, Spain) from January to June 2019 with the Computer Engineering degree. </li>
@@ -63,10 +60,9 @@ Part of my achievement includes an earning of udacity Nanodegree certificate as 
 ## Skills
 
 <details>
-  <summary> Languajes </summary>
+  <summary> Languages </summary>
   <div style={{marginLeft: '1em'}}>
-    <li>Spanish: Native</li>
-    <li>English: Advanced (TOFEL ITP: 627)</li>
+    <li>English: Advanced (WAEC: B)</li>
   </div>
 </details>
 <details>
@@ -75,18 +71,17 @@ Part of my achievement includes an earning of udacity Nanodegree certificate as 
     <li> <b> Professional level </b> </li>
     <div div style={{marginLeft: '1em'}}>
       <li>JavaScript (Node, React, Next)</li>
-      <li>Ruby (Rails)</li>
-      <li>SQL (MySQL, PostgreSQL)</li>
+      <li>Database (Planetscale, MongoDb, Firebase)</li>
       <li>Version manager (Git)</li>
-      <li>HTML & CSS</li>
+      <li>HTML, CSS & Wordpress</li>
+      <li>styling (tailwind, chakraui, sass)</li>
     </div>
   </div>
   <div style={{marginLeft: '1em'}}>
     <li> <b> Novice Level </b> </li>
     <div style={{marginLeft: '1em'}}>
-      <li>Python (Bottle)</li>
-      <li>Docker</li>
-      <li>UNIX</li>
+      <li>Jest</li>
+      <li>Graphql</li>
     </div>
   </div>
 </details>
@@ -94,6 +89,8 @@ Part of my achievement includes an earning of udacity Nanodegree certificate as 
 ## Achivements
 
 - Essential part of the winning team of the following hackathons:
-  - Ideacon (2018)
-  - Reset (2018)
-- Essential part of the 2nd place team of the Blockchain Mobility Hackathon 2019 in Barcelona, Spain.
+
+## contact Information
+
+- 2348177259099
+  obayuwanap@gmail.com
