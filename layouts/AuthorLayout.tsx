@@ -41,6 +41,8 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
           </div>
 
           <div className='prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2'>
+            I am Software Engineer with experience in frontend design and
+            backend design. Over the past two years,
             {children}
             <p className='mt-8'>
               <a
