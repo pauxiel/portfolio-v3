@@ -21,6 +21,12 @@ function Banner(props: BannerProps): React.ReactElement {
         {frontMatter.occupation}
       </p>
       <p className='font-light lg:text-xl'>
+        I would like to work for a startup that needs my expertise. I can
+        design,develop and translate your business goals into reality by
+        designing and developing the web app from scratch or enhance existing
+        web app.
+      </p>
+      <p className='font-light lg:text-xl'>
         Read more
         <Link className='ml-2 mr-2 font-normal text-black' href='/about'>
           <RoughNotation

@@ -1,8 +1,8 @@
 ---
 name: Paul Obayuwana
-shortname: Paul
+shortname: Paul Obayuwana
 avatar: /static/avatar.jpg
-occupation: Software Engineer
+occupation: Software Engineer /Freelancer
 company: Curebase
 resume: https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/Karan_Resume.pdf?alt=media&token=b4838b9e-812a-456a-89cc-bb19b4ecb923
 email: obayuwanap@gmail.com
