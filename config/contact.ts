@@ -5,6 +5,7 @@ export enum ContactType {
   youtube = 'youtube',
   email = 'email',
   buymeacoffee = 'buymeacoffee',
+  freelancer = 'freelancer',
 }
 
 export interface Contact {
@@ -15,8 +16,8 @@ export interface Contact {
 }
 
 export const contact: Contact = {
-  twitter: '@karan_6864',
-  site: 'karanpratapsingh.com',
+  twitter: '@obayuwanaPaul',
+  site: 'pauloba.vercel.app',
   calendly: 'https://calendly.com/karanpratapsingh',
   links: {
     github: 'https://github.com/karanpratapsingh',
@@ -25,5 +26,6 @@ export const contact: Contact = {
     youtube: 'https://www.youtube.com/c/KaranPratapSingh',
     email: 'mailto:contact@karanpratapsingh.com',
     buymeacoffee: 'https://www.buymeacoffee.com/karanps',
+    freelancer: 'https://www.freelancer.com/u/Pauxiel',
   },
 };

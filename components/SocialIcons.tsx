@@ -12,6 +12,7 @@ import {
   SiBuymeacoffee as BuymeacoffeeIcon,
   SiGmail as MailIcon,
   SiYoutube as YoutubeIcon,
+  SiFreelancer as FreelancerIcon,
 } from 'react-icons/si';
 import { Maybe, Tuple } from 'types';
 
@@ -63,6 +64,11 @@ function resolveIcon(entry: Tuple<string>): React.ReactNode {
     case ContactType.buymeacoffee:
       icon = <BuymeacoffeeIcon {...props} />;
       break;
+
+    case ContactType.freelancer:
+      icon = <FreelancerIcon {...props} />;
+      break;
+
     default:
       break;
   }
