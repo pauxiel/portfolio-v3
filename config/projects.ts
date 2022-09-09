@@ -125,7 +125,7 @@ export const projects: Project[] = [
   {
     title: 'Image Uploader',
     slug: 'image-uploader',
-    banner: '/static/projects/velvet-live/banner.png',
+    banner: '/static/projects/velvet-live/imageuploader.PNG',
     website: 'https://boom.london',
     description: `Meet imageuploader, an app for uploading image and copy uploaded image link. I  built this app alone. It was a challenge on devchallenge. The app is completed with all features working. The features include the uploading features, drag and drop feature, loading feature and the feature that allows you copy link after image is uploaded.`,
     repository: null,
