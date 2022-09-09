@@ -78,7 +78,7 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
     color: Colors.react,
   },
   [Stack.reactnative]: {
-    value: 'React Native',
+    value: 'Nextjs',
     color: Colors.reactnative,
   },
   [Stack.graphql]: {
