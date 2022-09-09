@@ -44,20 +44,21 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
             I am Software Engineer with experience in frontend design and
             backend design. Over the past two years, I have gained experience
             designing and developing web applications. I am currently building
-            an app called circle along with a team of four person. I have always
-            been fascinated by anything, software, and computer as a child. This
-            was why I pursued a degree in electronic and Computer Engineering.
-            During my second year, I did a little learning on the basics of web
-            development. But I began pursuing my interest in software
-            engineering during my final year at university. My school final year
-            was to build an e-tax software. After the project, my understanding
-            of building interfaces, and database management deepens. Right from
-            my university days, I saw that software engineering was a highly
-            rewarding field. So After my university days. I had already made up
-            my mind that software engineering was the career I will follow. Part
-            of my achievement includes an earning of udacity Nanodegree
-            certificate as a frontend developer and being among the top 50
-            hashnode writers In the month of May.
+            an app called circle along with a team of four person. <br /> I have
+            always been fascinated by anything, software, and computer as a
+            child. This was why I pursued a degree in electronic and Computer
+            Engineering. During my second year, I did a little learning on the
+            basics of web development. But I began pursuing my interest in
+            software engineering during my final year at university. My school
+            final year was to build an e-tax software. After the project, my
+            understanding of building interfaces, and database management
+            deepens.
+            <br /> Right from my university days, I saw that software
+            engineering was a highly rewarding field. So After my university
+            days. I had already made up software engineering my career choice.{' '}
+            <br /> Part of my achievement includes an earning of udacity
+            Nanodegree certificate as a frontend developer and being among the
+            top 50 hashnode writers In the month of May.
             <h2 className='mt-8 mb-4 text-2xl font-semibold dark:text-white'>
               Skills
             </h2>

@@ -11,9 +11,9 @@ linkedin: https://www.linkedin.com/in/obayuwana-paul
 github: https://github.com/pauxiel
 ---
 
-# Resume 💼
-
 ---
+
+# Resume 💼
 
 ## About Me
 
@@ -79,7 +79,7 @@ skilled in communication, collaboration, and technical documentation
 
 ## Achivements
 
-- Essential part of the winning team of the following hackathons:
+- Hashnode Top 50 writers in the month of April 2021
 
 ## contact Information
 
