@@ -126,7 +126,7 @@ export const projects: Project[] = [
     title: 'Image Uploader',
     slug: 'image-uploader',
     banner: '/static/projects/velvet-live/imageuploader.PNG',
-    website: 'https://boom.london',
+    website: 'https://imguploader.netlify.app',
     description: `Meet imageuploader, an app for uploading image and copy uploaded image link. I  built this app alone. It was a challenge on devchallenge. The app is completed with all features working. The features include the uploading features, drag and drop feature, loading feature and the feature that allows you copy link after image is uploaded.`,
     repository: null,
     stack: [
@@ -137,14 +137,9 @@ export const projects: Project[] = [
       Stack.gcp,
     ],
     screenshots: [
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-1.png?alt=media&token=b9b044ce-a3af-402f-a1db-1ae61621bb18',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-2.png?alt=media&token=f551d87b-4f74-4d06-b81e-50ea8bf7feba',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-5.png?alt=media&token=4f68239e-db81-43cc-b3a4-1a8642cfe4eb',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-6.png?alt=media&token=5655d6e8-99d4-4c40-9782-ce12efeab256',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-7.png?alt=media&token=32c12b1e-8e32-4d45-9001-9482d26bdaaf',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-3.png?alt=media&token=609b7e74-8349-48ec-bcc0-4b0071dfb9b6',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-8.png?alt=media&token=91880856-7288-420c-abb9-c1923f7ccd57',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fvelvet%2Fscreenshots%2Fscreenshot-4.png?alt=media&token=3dcdc3bd-cbb7-4d8e-9368-306158cce40d',
+      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220909-221316_Chrome.jpgd08bed76-462d-418e-91f5-3718f0e2449d?alt=media&token=848ee878-cf63-4673-aa4a-2159aa398e70',
+      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220909-221359_Chrome.jpg9989988e-1538-465e-93d1-c4d087f34aeb?alt=media&token=191a1b51-dcdd-4623-a16e-a65b6356ad0f',
+      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220909-221400_Chrome.jpgaaffc163-d99c-4ebc-a1a7-a01f49a2ece4?alt=media&token=056e3bda-f7d6-4483-a919-c3345f8c5e39',
     ],
     deployment: {
       web: 'https://boom.london',
