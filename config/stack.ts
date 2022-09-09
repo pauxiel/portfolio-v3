@@ -37,22 +37,16 @@ export enum Stack {
 }
 
 export const WorkStack = [
-  Stack.go,
+  Stack.javascript,
   Stack.typescript,
-  Stack.python,
   Stack.react,
   Stack.aws,
-  Stack.gcp,
-  Stack.kubernetes,
-  Stack.docker,
-  Stack.terraform,
-  Stack.nats,
-  Stack.kafka,
+  Stack.node,
+  Stack.reactnative,
   Stack.graphql,
   Stack.postgres,
   Stack.redis,
-  Stack.arangodb,
-  Stack.reactnative,
+  Stack.mongo,
 ];
 
 type StackInfoMap = {
@@ -114,15 +108,15 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
     color: Colors.kafka,
   },
   [Stack.arangodb]: {
-    value: 'ArangoDB',
+    value: 'MongoDB',
     color: Colors.arangodb,
   },
   [Stack.postgres]: {
-    value: 'Postgres',
+    value: 'Planetscale',
     color: Colors.postgres,
   },
   [Stack.redis]: {
-    value: 'Redis',
+    value: 'Firebase',
     color: Colors.redis,
   },
   [Stack.mongo]: {
@@ -134,11 +128,11 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
     color: Colors.docker,
   },
   [Stack.kubernetes]: {
-    value: 'Kubernetes',
+    value: 'Vercel CI/CD',
     color: Colors.kubernetes,
   },
   [Stack.terraform]: {
-    value: 'Terraform',
+    value: 'Prisma',
     color: Colors.terraform,
   },
 };
