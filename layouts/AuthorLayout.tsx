@@ -65,7 +65,7 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
             <StackList stack={WorkStack} />
             {children}
             <p className='mt-8'>
-              <a
+              {/* <a
                 className='!font-normal !text-black !no-underline dark:!text-white'
                 href={resume}
                 target='_blank'
@@ -81,7 +81,7 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
                 >
                   Resume
                 </RoughNotation>
-              </a>
+              </a> */}
             </p>
           </div>
         </div>
