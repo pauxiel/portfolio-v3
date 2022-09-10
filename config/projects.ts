@@ -5,6 +5,7 @@ export type Deployment = {
   web?: string;
   android?: string;
   ios?: string;
+  code?: string;
 };
 
 export interface SubProject {
@@ -129,21 +130,15 @@ export const projects: Project[] = [
     website: 'https://imguploader.netlify.app',
     description: `Meet imageuploader, an app for uploading image and copy uploaded image link. I  built this app alone. It was a challenge on devchallenge. The app is completed with all features working. The features include the uploading features, drag and drop feature, loading feature and the feature that allows you copy link after image is uploaded.`,
     repository: null,
-    stack: [
-      Stack.javascript,
-      Stack.react,
-      Stack.reactnative,
-      Stack.graphql,
-      Stack.gcp,
-    ],
+    stack: [Stack.javascript, Stack.react, Stack.redis],
     screenshots: [
       'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220909-221316_Chrome.jpgd08bed76-462d-418e-91f5-3718f0e2449d?alt=media&token=848ee878-cf63-4673-aa4a-2159aa398e70',
       'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220909-221359_Chrome.jpg9989988e-1538-465e-93d1-c4d087f34aeb?alt=media&token=191a1b51-dcdd-4623-a16e-a65b6356ad0f',
       'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220909-221400_Chrome.jpgaaffc163-d99c-4ebc-a1a7-a01f49a2ece4?alt=media&token=056e3bda-f7d6-4483-a919-c3345f8c5e39',
     ],
     deployment: {
-      web: 'https://boom.london',
-      android: 'https://play.google.com/store/apps/details?id=app.boom.mobile',
+      web: 'https://imguploader.netlify.app',
+      code: 'https://play.google.com/store/apps/details?id=app.boom.mobile',
     },
     subProjects: [],
   },
