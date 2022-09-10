@@ -33,7 +33,8 @@ function Contact(): React.ReactElement {
         <div className='container py-12'>
           <p>
             Do you have a project in mind? Want to hire me? or simply wanna
-            chat? Feel free to
+            chat? Feel free to contact at +2348177259099 and
+            obayuwanap@gmail.com
             <span
               className='ml-2 cursor-pointer !font-normal !text-black !no-underline dark:!text-white'
               onClick={onScheduleMeeting}

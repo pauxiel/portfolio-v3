@@ -100,8 +100,8 @@ export const projects: Project[] = [
     repository: 'https://github.com/karanpratapsingh/Proximity',
     stack: [Stack.typescript, Stack.reactnative, Stack.postgres],
     screenshots: [
-      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2Fcircleloginpage.PNG58aba146-0d37-4144-a916-72543fd7ef9e?alt=media&token=b0c5b702-339a-4a15-b9f7-869022b4ad9d',
-      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2Fcirclehomepage.PNG8c60aa31-4a19-44a3-a0e8-c2cfc4c66a1a?alt=media&token=010844db-90e6-4e56-b5fe-ce23f8cd76cd',
+      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220910-215424_Chrome.jpg7d8c5013-9201-4a75-86d0-f3070b503663?alt=media&token=0b482bcf-58a9-479d-94b8-79603dec410b',
+      'https://firebasestorage.googleapis.com/v0/b/image-uploader-87c5d.appspot.com/o/images%2FScreenshot_20220910-215448_Chrome.jpg8759c021-173b-4547-bdf1-d9fb4f83c10a?alt=media&token=ca36be6a-f83a-4908-b48e-e776eb7a6a94',
     ],
     deployment: {
       web: 'https://circle-one.vercel.app',
