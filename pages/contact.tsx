@@ -77,6 +77,11 @@ function Contact(): React.ReactElement {
               rows={10}
               placeholder='message'
             ></textarea>
+            <input
+              type='submit'
+              value='SUBMIT'
+              className='inline-block rounded bg-transparent py-5 px-12 text-sm text-gray-400 outline-none'
+            />
           </form>
         </div>
 

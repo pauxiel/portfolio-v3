@@ -113,7 +113,7 @@ export const projects: Project[] = [
     slug: 'image-uploader',
     banner: '/static/projects/velvet-live/imageuploader.PNG',
     website: 'https://imguploader.netlify.app',
-    description: `Meet imageuploader, an app for uploading image and copy uploaded image link. I  built this app alone. It was a challenge on devchallenge. The app is completed with all features working. The features include the uploading features, drag and drop feature, loading feature and the feature that allows you copy link after image is uploaded.`,
+    description: `Meet imageuploader, an app for uploading image and copy uploaded image link. I  built this app alone. It was a challenge on devchallenge. The app is completed with all features working. The features include the uploading features, drag and drop feature, loading feature and the feature that allows you copy link after image is uploaded. The app was completed on 22nd of june, 2022`,
     repository: 'https://github.com/pauxiel/Image-uploader',
     stack: [Stack.javascript, Stack.react, Stack.redis],
     screenshots: [
@@ -123,7 +123,6 @@ export const projects: Project[] = [
     ],
     deployment: {
       web: 'https://imguploader.netlify.app',
-      code: 'https://github.com/pauxiel/Image-uploader',
     },
     subProjects: [],
   },
